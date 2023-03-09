@@ -10,8 +10,8 @@
 
 <div>
 <a href="https://github.com/MarysDev/">
-  <img height="170cm" src="https://github-readme-stats.vercel.app/api?username=MarysDev&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true">
-  <img height="170cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarysDev&layout=compact&theme=radical&hide_border=true&langs_count=6">
+  <img height="165cm" src="https://github-readme-stats.vercel.app/api?username=MarysDev&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true">
+  <img height="165cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarysDev&layout=compact&theme=radical&hide_border=true&langs_count=6">
 </div>
  
  <div style="display: inline_block"><br>
